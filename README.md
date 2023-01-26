@@ -11,7 +11,7 @@ to use usefull gems
 This initial setup was made by running the following commands:
 
 ```
-rails new store --skip-javascript
+rails new store --database=postgresql --skip-javascript
 cd store
 bundle add solidus
 bin/rails generate solidus:install --frontend=solidus_starter_frontend
