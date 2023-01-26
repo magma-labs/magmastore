@@ -1,0 +1,2 @@
+# magmastore
+Solidus with steroids
